@@ -15,7 +15,7 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game us
 
  **Clone the Repository**:
 
-
+ ```bash
   $ git clone https://github.com/ADAMFUTUR/tictactoe-game.git
   $ cd tictactoe-game
   $ gcc tictactoe.c -o tictactoe
